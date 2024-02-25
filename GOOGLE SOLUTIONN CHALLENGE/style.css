@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #BDE0FE; /* Light Blue */
+}
+
+h1 {
+    text-align: center;
+    color: #484848; /* Dark Gray */
+}
+
+h3 {
+    text-align: center;
+    color: #656565; /* Medium Gray */
+}
+
+hr {
+    border: 1px solid #CDB4DB; /* Lavender Pink */
+    margin: 20px 0;
+}
+
+#map {
+    margin: auto;
+    height: 670px;
+    width: 80%;
+}
+
+/* Customize additional styling based on your preferences using the provided color palette */
